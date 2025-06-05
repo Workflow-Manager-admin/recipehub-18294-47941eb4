@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/recipehub-18294-47941eb4/recipehub_main_container"
+}
